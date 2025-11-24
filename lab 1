@@ -1,0 +1,26 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String name = "Krish"; // this the code for my name
+        String age = "15"; // this is the code for my age
+        String food = "pizza"; // this is the code for my favorite food
+        String drink = "coke"; // this is the code for favorite drink
+        String school = "NGS"; // this is the code for my school
+        String grade = "10"; // this is the code for my grade
+
+        System.out.println ("Hello my name is " + name); // this is the code to print my name
+
+        System.out.println ("I am " + age + " years old"); // this is the code to print my age
+
+        System.out.println ("My favorite food is " + food + " and my favorite drink is " + drink); // this is the code to print my favorite food and drink
+
+
+        System.out.println ("Hi, I'm " + name ); // this is the code to print my name
+        System.out.println ("My school is " + school ); // this is the code to print my school
+        System.out.println ("My grade is " + grade ); // this is the code to print my grade
+
+
+        System.out.println(5 + 5); // this is the code to print what 5 + 5 = to which is 10
+
+    }
+}
